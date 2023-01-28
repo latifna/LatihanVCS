@@ -16,7 +16,7 @@
 
 1. Buat akun terlebih dahulu di https://github.com ![akun](step/ss10.png)
 2. Klik new repository
-3. Isi nama repositiry dan klik create repository ![repository](step/ss11.png)
+3. Isi nama repository dan klik create repository ![repository](step/ss11.png)
 4. Perintah 'git clone[url]' digunakan untuk membuat working directory yang diambil dari repository server
 ![clone](step/ss5.png) ![output](step/ss6.png)
 5. Langkah - langkah untuk menambahkan file ke dalam repository server ![repository_server](step/ss7.png)
