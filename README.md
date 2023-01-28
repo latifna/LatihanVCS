@@ -1,7 +1,7 @@
 # LatihanVCS
 ## Tugas bahasa pemrograman
 
-### Dasar - dasar pengguanaan git
+### Dasar - dasar penggunaan git
 
 1. Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email agar tidak terjadi kegagalan saat menjalankan perintah git commit
 ![konfigurasi](step/ss1.png)
@@ -25,4 +25,4 @@
     3. 'git status' perintah untuk melihat status file terbaru
     4. 'git commit -m "komentar"' perintah untuk menyimpan perubahan kedalam database git
     5. 'git push u- origin main' perintah untuk mengirim perubahan pada repository local menuju repository server ![output](step/ss8.png)
-6. Lakukan hal yang sama ( step no 5) untuk update saat terjadi perubahan file pada repository server
+6. Lakukan hal yang sama ( step no 5) untuk update saat terjadi perubahan file pada repository server ![tampilan](step/ss9.png)
