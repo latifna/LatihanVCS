@@ -14,15 +14,15 @@
 
 ### Cara membuat atau menambahkan file ke repository server
 
-1. Buat akun terlebih dahulu di https://github.com
+1. Buat akun terlebih dahulu di https://github.com ![akun](step/ss10.png)
 2. Klik new repository
-3. Isi nama repositiry dan klik create repository
+3. Isi nama repositiry dan klik create repository ![repository](step/ss11.png)
 4. Perintah 'git clone[url]' digunakan untuk membuat working directory yang diambil dari repository server
 ![clone](step/ss5.png) ![output](step/ss6.png)
 5. Langkah - langkah untuk menambahkan file ke dalam repository server ![repository_server](step/ss7.png)
-'cd' perintah untuk masuk ke repository utama
-'git add namafile.html' perintah untuk menambahkan file baru
-'git status' perintah untuk melihat status file terbaru
-'git commit -m "komentar"' perintah untuk menyimpan perubahan kedalam database git
-'git push u- origin main' perintah untuk mengirim perubahan pada repository local menuju repository server ![output](step/ss8.png)
-6. Lakukan hal yang sama ( step no 5) untuk update saat terjadi perubahan file pada repository server ![tampilan](step/ss9.png)
+- 'cd' perintah untuk masuk ke repository utama
+- 'git add namafile.html' perintah untuk menambahkan file baru
+- 'git status' perintah untuk melihat status file terbaru
+- 'git commit -m "komentar"' perintah untuk menyimpan perubahan kedalam database git
+- 'git push u- origin main' perintah untuk mengirim perubahan pada repository local menuju repository server ![output](step/ss8.png)
+6. Lakukan hal yang sama ( step no 5 ) untuk update saat terjadi perubahan file pada repository server ![tampilan](step/ss9.png)
